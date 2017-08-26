@@ -20,4 +20,8 @@ JDK 1.8 (at least) , any well known IDE for JAVA
 
 If you want to run the server on a different machine then set up the IP address accordingly in all respective files 
 
+## Contributors
+[Farhan Tanvir Utshaw](https://github.com/Utshaw)
+Masfiqur Rahaman Rijve
+
 
