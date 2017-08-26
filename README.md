@@ -1,6 +1,9 @@
 # mini-Facebook
 JAVA Project for CSE-108
 
+![ss](https://user-images.githubusercontent.com/18516336/29740174-0834fa24-8a72-11e7-9de6-629bb369d58b.PNG)
+
+
 ## Getting Started
 If you are familiar with git then fork this project in your own repo & follow this code to get a copy of this project
 ```
